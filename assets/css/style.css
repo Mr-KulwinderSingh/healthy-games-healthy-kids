@@ -99,10 +99,12 @@ h1, h2 {
     text-transform: uppercase;
     text-align: center;
 
-    width: 600px;
-    height: 250px;
+    width: 900px;
+    height: 200px;
 
-    margin-left: 10%;
+    margin: auto;
+    
+    padding-left: 10px;
 
     background-color: rgba(92, 245, 240, 0.6);
     border: 1px solid green;
