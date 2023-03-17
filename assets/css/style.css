@@ -82,7 +82,32 @@ h1, h2 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    
+    margin: 0;
+    
 }
 
+#cover-text, #cover-text h2 {
 
+    color: #0e0e10;
+
+}
+
+#cover-text {
+
+    font-size: 100%;
+    text-transform: uppercase;
+    text-align: center;
+
+    width: 600px;
+    height: 250px;
+
+    margin-left: 10%;
+
+    background-color: rgba(92, 245, 240, 0.6);
+    border: 1px solid green;
+
+    
+    position: relative;
+}
 
