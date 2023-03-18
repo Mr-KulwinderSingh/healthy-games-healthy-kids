@@ -77,13 +77,13 @@ h1, h2 {
 #body-image {
 
     height: 600px;
-    width: 100%;
+    width: 80%;
     background-image: url(../images/dad\ &\ son\ playing.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: relative;
     
-    margin: 0;
+    margin-left: 20%;
     
 }
 
@@ -108,8 +108,27 @@ h1, h2 {
 
     background-color: rgba(92, 245, 240, 0.6);
     border: 1px solid green;
-
+    position: fixed;
     
-    position: relative;
+    
 }
 
+#welcome {
+    
+    text-align: center;
+    margin: 20px 0;
+    line-height: 100%;
+    margin-bottom: 2%;
+}
+
+hr {
+    border-top: 1px soild #252525;
+    width: 100%;
+    margin: 5px 0 ;
+}
+
+#left-about {
+    width: 20px;
+    float: left;
+    margin-left: 2%;
+}
