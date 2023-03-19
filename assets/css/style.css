@@ -87,15 +87,6 @@ h1, h2 {
     
 }
 
-#left-cover {
-
-    padding-top: 30px;
-    width: 25%;
-    float: left;
-    width: 200px;
-    height: 200px;
-}
-
 #cover-text, #cover-text h2 {
 
     color: #0e0e10;
@@ -110,39 +101,43 @@ h1, h2 {
 
     width: 900px;
     height: 200px;
-
-    margin: auto;
     
     padding-left: 10px;
 
     background-color: rgba(92, 245, 240, 0.6);
     border: 1px solid green;
-    position: fixed;
     
     
 }
 
-#cover-text >#cover-text-left {
+#cover-text-left {
 
     height: 400px;
     width: 200px;
-    position: fixed;
+   position: absolute;
     padding-left: 10px;
 
-    top: 400px;
+    top: 800px;
     left: 20px;
+
+    background-color: rgba(92, 245, 240, 0.6);
+
+
+
 }
 
 
-#cover-text >#cover-text-right {
+#cover-text-right {
 
     height: 400px;
     width: 200px;
-    position: fixed;
+    position: absolute;
     padding-left: 10px;
 
-    top: 400px;
+    top: 800px;
     right: 20px;
+
+    background-color: rgba(92, 245, 240, 0.6);
 }
 
 #welcome {
@@ -156,5 +151,5 @@ h1, h2 {
 hr {
     border-top: 1px soild #252525;
     width: 100%;
-    margin: 5px 0 ;
+    margin: 5px 0;
 }
