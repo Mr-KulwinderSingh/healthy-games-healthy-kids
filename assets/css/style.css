@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     font-size: 200%;
     float: left;
+    margin-left: 30px;
 
 }
 
@@ -152,4 +153,29 @@ hr {
     border-top: 1px soild #252525;
     width: 100%;
     margin: 5px 0;
+}
+
+
+/* styles for services  */
+
+body {
+
+    background-image: url(../images/dad\ &\ son\ playing.jpeg);
+}
+
+#service-heading {
+
+    clear: both;
+    text-align: center;
+
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+    color: #252525;
+}
+
+.service-list {
+
+    text-align: left;
+    
 }
