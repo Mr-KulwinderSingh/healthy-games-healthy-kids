@@ -108,7 +108,10 @@ h1, h2 {
     background-color: rgba(92, 245, 240, 0.6);
     border: 1px solid green;
     
-    
+}
+#body-image >#cover-text {
+
+    background-position: center;
 }
 
 #cover-text-left {
@@ -155,12 +158,35 @@ hr {
     margin: 5px 0;
 }
 
+.social-networks {
+
+    text-align: center;
+}
+
+.social-networks li {
+
+    display: inline;
+}
+
+footer {
+
+    height: 160px;
+    float: inline-end;
+    
+}
+
+.social-networks i {
+
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+}
 
 /* styles for services  */
 
 body {
 
-    background-image: url(../images/dad\ &\ son\ playing.jpeg);
+    background-color: aquamarine;
 }
 
 #service-heading {
@@ -177,5 +203,10 @@ body {
 .service-list {
 
     text-align: left;
+    margin: 5%;
+    padding: 0%;
+    line-height: 40px;
+    
+    
     
 }
