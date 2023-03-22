@@ -123,30 +123,25 @@ h1, h2 {
     
 }
 
-#cover-text, #cover-text h2 {
-
-    color: #0e0e10;
-
-}
-
-#cover-text {
+.cover-text {
 
     font-size: 100%;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
+    border-radius: 50px;
 
     width: 900px;
-    height: 200px;
-    
-    padding-left: 10px;
+    height: 160px;
 
-    background-color: rgba(92, 245, 240, 0.6);
-    border: 1px solid green;
+    background-color: rgba(194, 239, 210, 0.6);
+    border: 1px solid rgb(196, 246, 196);
     
 }
-#body-image >#cover-text {
 
-    background-position: center;
+#body-image .cover-text {
+    position: relative;
+    left: 60px;
+
 }
 
 #cover-text-left {
@@ -155,6 +150,11 @@ h1, h2 {
     width: 200px;
    position: absolute;
     padding-left: 10px;
+    border-radius: 50px;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
 
     top: 800px;
     left: 20px;
@@ -172,6 +172,11 @@ h1, h2 {
     width: 200px;
     position: absolute;
     padding-left: 10px;
+    border-radius: 50px;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
 
     top: 800px;
     right: 20px;
@@ -179,7 +184,7 @@ h1, h2 {
     background-color: rgba(92, 245, 240, 0.6);
 }
 
-#welcome {
+.welcome {
     
     text-align: center;
     margin: 20px 0;
