@@ -6,11 +6,24 @@
     border: none;
 }
 
+html {
+
+    height: 100%;
+}
+
 body {
     overflow-x: hidden;
     font-family: Noto serif Lao;
     font-weight: 200;
     color: #3a3a3a;
+}
+
+body {
+
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+
 }
 
 /* heading and logo */
@@ -214,7 +227,7 @@ span {
 }
 
 footer {
-
+    margin-top: auto;
     height: 160px;
     float: inline-end;
     
@@ -237,7 +250,7 @@ footer {
     width: 80%;
     margin: 0 auto;
     padding-top: 30px;
-    color: #252525;
+    color: #fff;
 }
 
 .service-list {
@@ -247,6 +260,35 @@ footer {
     padding: 0%;
     line-height: 40px;
     
-    
-    
+}
+
+#services-image {
+
+    clear: both;
+    background: rgb(0,0,0,0.8) url(../images/pexels-cottonbro-studio-4098152.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+
+}
+
+/* styles for contact us page */
+
+#contact-form-background {
+
+    margin: 0 auto;
+
+    min-height: 100%;
+    width: 100%;
+    clear: both;
+    background: url(../images/pexels-photomix-company-887751.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#contact-form {
+
+    overflow: auto;
+    padding-bottom: 100px;
 }
