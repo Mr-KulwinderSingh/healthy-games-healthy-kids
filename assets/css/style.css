@@ -208,6 +208,11 @@ hr {
     display: inline;
 }
 
+span {
+
+    font-size: 150%;
+}
+
 footer {
 
     height: 160px;
@@ -219,7 +224,7 @@ footer {
 
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
 }
 
 /* styles for services  */
