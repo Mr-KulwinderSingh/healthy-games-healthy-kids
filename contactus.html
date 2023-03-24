@@ -29,8 +29,44 @@
     </nav>
     </header>
     <section id="contact-form-background">
-        <div id="contact-form"></div>
-       
+        <div id="contact-form">
+       <form action="https.//formdump.codeistitute.net/" class="form" method="post">
+
+        <h4>Tell us about you yourself to start 1st free consultation:</h4>
+
+        <label for="fname">First Name</label>
+        <input id="fname" name="first_name" placeholder="First Name" type="text" required>
+
+        <label for="lname">Last Name</label>
+        <input id="lname" name="last_name" placeholder="Last Name"type="text" required>
+
+        <label for="mobile">Mobile No.</label>
+        <input id="mobile" name="mobile_no" placeholder="Mobile No" type="number" required>
+
+        <label for="email">Email Address</label>
+        <input id="email" name="email_address" placeholder="Email Address" type="email" required>
+
+        <label for="age_of_child">Age of Child</label>
+        <select id="age_of_child" name="age" required>
+            <option value="5">5-10</option>
+            <option value="5">10-15</option>
+        </select>
+
+        <label for="time_to_call">Suitable time to call</label>
+        <input id="time_to_call" list="times" name="Suitable">
+        
+        <datalist id="times">
+
+            <option value="Morning">
+            <option value="Afternoon">
+            <option value="Evening">
+            <option value="Anytime">
+        </datalist>
+
+        <input type="submit" name="Contact Us">
+
+        </div>
+       </form>
 
     </section>
 
