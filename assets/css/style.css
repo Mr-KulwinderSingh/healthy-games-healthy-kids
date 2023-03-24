@@ -75,15 +75,20 @@ h1, h2 {
 
 #hero-images {
 
+    width: 1400px;
     clear: both;
     position: relative;
-    left: 120px;
+    margin: 0 auto;
+    background-size: contain;
+    box-shadow: 2px 2px 15px rgb(95, 61, 244);
+    border-radius: 10px;
     
 }
 
 .image-1 {
     height: 500px;
     width: 700px;
+    border-bottom-left-radius: 10px;
 
 }
 .image-2 {
@@ -125,14 +130,16 @@ h1, h2 {
 
 #body-image {
 
-    height: 600px;
-    width: 80%;
+    height: 580px;
+    width: 1000px;
     background-image: url(../images/dad\ &\ son\ playing.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: relative;
+    border-radius: 5px;
     
     margin-left: 20%;
+    box-shadow: 2px 2px 15px rgb(95, 61, 244);
     
 }
 
@@ -301,6 +308,10 @@ footer {
     position: absolute;
     border-radius: 5px;
 
+}
+label {
+
+    display: inline-block;
 }
 .form {
 
