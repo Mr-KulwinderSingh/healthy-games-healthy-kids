@@ -30,40 +30,38 @@
     </header>
     <section id="contact-form-background">
         <div id="contact-form">
-       <form action="https.//formdump.codeistitute.net/" class="form" method="post">
+       <form class="form" action="https://formdump.codeinstitute.net/" method="post">
 
         <h4>Tell us about you yourself to start 1st free consultation:</h4>
 
         <label for="fname">First Name</label>
-        <input id="fname" name="first_name" placeholder="First Name" type="text" required>
+        <input class="input-slot" id="fname" name="first_name" placeholder="First Name" type="text" required><br>
 
         <label for="lname">Last Name</label>
-        <input id="lname" name="last_name" placeholder="Last Name"type="text" required>
+        <input  class="input-slot" id="lname" name="last_name" placeholder="Last Name"type="text" required><br>
 
-        <label for="mobile">Mobile No.</label>
-        <input id="mobile" name="mobile_no" placeholder="Mobile No" type="number" required>
+        <label for="mobile">Mobile</label>
+        <input class="input-slot" id="mobile" name="mobile_no" placeholder="Mobile No" type="number" required><br>
 
         <label for="email">Email Address</label>
-        <input id="email" name="email_address" placeholder="Email Address" type="email" required>
+        <input class="input-slot" id="email" name="email_address" placeholder="Email Address" type="email" required><br>
 
         <label for="age_of_child">Age of Child</label>
-        <select id="age_of_child" name="age" required>
-            <option value="5">5-10</option>
-            <option value="5">10-15</option>
-        </select>
+        <input class="input-slot" id="age_of_child" name="age_of_child" placeholder="Age" type="number" required><br>
+        
 
         <label for="time_to_call">Suitable time to call</label>
-        <input id="time_to_call" list="times" name="Suitable">
+        <input class="input-slot-1" id="time_to_call" list="times" name="Suitable_time">
         
         <datalist id="times">
-
             <option value="Morning">
             <option value="Afternoon">
             <option value="Evening">
             <option value="Anytime">
         </datalist>
 
-        <input type="submit" name="Contact Us">
+        <input class="input-slot-1" type="submit" name="submit" value="Submit form">
+        <input class="input-slot-1" type="reset" value="Reset">
 
         </div>
        </form>
