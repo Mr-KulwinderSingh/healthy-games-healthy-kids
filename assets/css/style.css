@@ -155,7 +155,7 @@ h1, h2 {
 
     background-color: rgba(194, 239, 210, 0.6);
     border: 1px solid rgb(196, 246, 196);
-    
+    box-shadow: 2px 2px 15px rgb(95, 61, 244);
 }
 
 #body-image .cover-text {
@@ -196,7 +196,7 @@ h1, h2 {
     left: 30px;
 
     background-color: rgba(194, 239, 210, 0.6);
-    border: 1px solid rgb(196, 246, 196)
+    box-shadow: 2px 2px 15px rgb(95, 61, 244);
 
 
 }
@@ -218,7 +218,8 @@ h1, h2 {
     right: 20px;
 
     background-color: rgba(194, 239, 210, 0.6);
-    border: 1px solid rgb(196, 246, 196)
+    box-shadow: 2px 2px 15px rgb(95, 61, 244);
+    
 }
 
 .welcome {
