@@ -292,7 +292,9 @@ footer {
 #services-image {
 
     clear: both;
-    background: rgb(0,0,0,0.8) url(../images/pexels-cottonbro-studio-4098152.jpg);
+    background: rgb(0,0,0,0.7) url(../images/pexels-kindel-media-8550841.jpg);
+
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: darken;
@@ -318,9 +320,9 @@ footer {
     left: 850px;
     top: 300px;    
  
-    height: 500px;
+    height: 550px;
     width: 700px;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgb(0, 115, 255);
 
 
@@ -329,27 +331,31 @@ footer {
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
 
 }
+
 label {
 
     width: 300px;
     display: inline-block;
 }
+
 .form {
 
-    
+    margin-left: 20px;
     padding: 20px;
+    padding-left: 30px;
     color: rgb(246, 242, 242);
 }
 
 
-.form h4 {
+.form h3 {
 
     margin-bottom: 10px;
+    font-size: 160%;
 }
 
 .input-slot {
 
-    width: 60%;
+    width: 70%;
     color: rgb(16, 15, 15);
     margin: 10px 5px 10px 5px;
     height: 35px;
@@ -362,4 +368,8 @@ label {
     margin: 15px 5px 15px 5px;
     height: 35px;
 
+}
+.other-label {
+    display: inline;
+    text-align: left;
 }
