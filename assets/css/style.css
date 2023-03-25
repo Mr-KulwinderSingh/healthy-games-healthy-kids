@@ -176,24 +176,20 @@ h1, h2 {
     color: #fff;
 }
 
-#cover-text-left h3 {
-
-    position: relative;
-     
-}
-
 #cover-text-left {
 
     height: 500px;
     width: 200px;
     position: absolute;
-    padding-left: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-radius: 50px;
 
-    align-items: center;
-    justify-content: center;
-    display:flex;
+    text-align: center;
+    padding-top: 30px;
+    display: block;
 
+   
     top: 700px;
     left: 30px;
 
@@ -209,13 +205,13 @@ h1, h2 {
     height: 500px;
     width: 200px;
     position: absolute;
-    padding-left: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-radius: 50px;
 
-    align-items: center;
-    justify-content: center;
-    display: flex;
-
+    text-align: center;
+    padding-top: 30px;
+    
     top: 700px;
     right: 30px;
 
