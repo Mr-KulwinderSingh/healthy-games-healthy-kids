@@ -176,23 +176,25 @@ h1, h2 {
     color: #fff;
 }
 
-#cover-text-left > h3 {
-    margin: 0 auto;
+#cover-text-left h3 {
+
+    position: relative;
+     
 }
 
 #cover-text-left {
 
-    height: 400px;
+    height: 500px;
     width: 200px;
-   position: absolute;
-    padding-left: 10px;
+    position: absolute;
+    padding-left: 20px;
     border-radius: 50px;
 
     align-items: center;
     justify-content: center;
-    display: flex;
+    display:flex;
 
-    top: 800px;
+    top: 700px;
     left: 30px;
 
     background-color: rgba(194, 239, 210, 0.6);
@@ -204,7 +206,7 @@ h1, h2 {
 
 #cover-text-right {
 
-    height: 400px;
+    height: 500px;
     width: 200px;
     position: absolute;
     padding-left: 10px;
@@ -214,8 +216,8 @@ h1, h2 {
     justify-content: center;
     display: flex;
 
-    top: 800px;
-    right: 20px;
+    top: 700px;
+    right: 30px;
 
     background-color: rgba(194, 239, 210, 0.6);
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
@@ -329,16 +331,14 @@ footer {
 }
 label {
 
+    width: 300px;
     display: inline-block;
 }
 .form {
 
-    margin: 15px 5% 0 0;
+    
     padding: 20px;
     color: rgb(246, 242, 242);
-    
-    
-
 }
 
 
@@ -351,7 +351,7 @@ label {
 
     width: 80%;
     color: rgb(16, 15, 15);
-    margin: 15px 5px 15px 5px;
+    margin: 10px 5px 10px 5px;
     height: 35px;
 }
 

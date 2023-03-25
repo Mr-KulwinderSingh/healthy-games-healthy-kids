@@ -47,13 +47,11 @@
         <input class="input-slot" id="email" name="email_address" placeholder="Email Address" type="email" required><br>
 
         <label for="age_of_child">Age of Child</label>
-        <input class="input-slot" id="age_of_child" name="age_of_child" placeholder="Age" type="number" required><br>
+        <input class="input-slot" id="age_of_child" name="age_of_child" value="15" min="5" max="15" placeholder="Age" type="number" required><br>
         
-
         <label for="time_to_call">Suitable time to call</label>
         <input class="input-slot-1" id="time_to_call" list="times" name="Suitable_time">
-        
-        <datalist id="times">
+            <datalist id="times">
             <option value="Morning">
             <option value="Afternoon">
             <option value="Evening">
