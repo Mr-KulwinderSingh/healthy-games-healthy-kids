@@ -131,7 +131,7 @@ h1, h2 {
 #body-image {
 
     height: 580px;
-    width: 1000px;
+    width: 60%;
     background-image: url(../images/dad\ &\ son\ playing.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -150,8 +150,9 @@ h1, h2 {
     text-align: center;
     border-radius: 50px;
 
-    width: 900px;
+    width: 85%;
     height: 160px;
+    margin: 10px;
 
     background-color: rgba(194, 239, 210, 0.5);
     border: 1px solid rgb(196, 246, 196);
@@ -372,8 +373,11 @@ label {
 
 /* media queries */
 
-@media screen and (max-width : 1200px) {
-    #second-half{
+/* for larger to medium screen size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+    #second-half {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -390,7 +394,13 @@ label {
         float: left;
         padding: 0;
 
-
     }
+    
+    #body-image {
 
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
 }
