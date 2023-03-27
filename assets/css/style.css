@@ -413,5 +413,30 @@ label {
     line-height: 25px;
     }
     
+    .aim {
+
+        left: 0;
+    }
+
+    #second-half {
+
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #story-text, #right-side-text {
+        width: inherit;
+    }
+
+    #story-text h3, #right-side-text h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    #story-text p, #right-side-text p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
 
