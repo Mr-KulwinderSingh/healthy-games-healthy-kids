@@ -138,7 +138,7 @@ h1, h2 {
     background-position: relative;
     border-radius: 5px;
     
-    margin-left: 20%;
+    margin: 0 auto;
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
     
 }
@@ -150,7 +150,6 @@ h1, h2 {
     border-radius: 25px;
 
     width: 85%;
-    margin: 10px;
     padding: 10px;
 
     background-color: rgba(194, 239, 210, 0.5);
@@ -160,7 +159,7 @@ h1, h2 {
 
 #body-image .aim {
     position: relative;
-    left: 60px;
+    margin: 0 auto;
 
 }
 
@@ -393,7 +392,7 @@ label {
     }
 
     .aim {
-        padding: 30px 0;
+        padding: 10px;
         margin: 0 auto;
     }
 
