@@ -146,13 +146,12 @@ h1, h2 {
 .aim {
 
     font-size: 100%;
-    text-transform: none;
     text-align: center;
-    border-radius: 50px;
+    border-radius: 25px;
 
     width: 85%;
-    height: 160px;
     margin: 10px;
+    padding: 10px;
 
     background-color: rgba(194, 239, 210, 0.5);
     border: 1px solid rgb(196, 246, 196);
