@@ -151,16 +151,11 @@ h1, h2 {
 
     width: 85%;
     padding: 10px;
+    margin: 0 auto;
 
     background-color: rgba(194, 239, 210, 0.5);
     border: 1px solid rgb(196, 246, 196);
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
-}
-
-#body-image .aim {
-    position: relative;
-    margin: 0 auto;
-
 }
 
 #right-side-text:hover {
@@ -307,17 +302,15 @@ footer {
 }
 
 #contact-form {
+    margin: 200px;
 
-    left: 850px;
-    top: 300px;    
- 
     height: 550px;
-    width: 700px;
+    width: 40%;
+    float:right;
+
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgb(0, 115, 255);
 
-
-    position: absolute;
     border-radius: 5px;
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
 
@@ -404,7 +397,7 @@ label {
         padding: 0;
 
     }
-    
+
 }
 
 /* for medium screen sizes from 950px and down */
