@@ -339,10 +339,11 @@ label {
 }
 
 
-.form h3 {
-
+.form h2 {
+    letter-spacing: normal;
+    text-transform: none;
     margin-bottom: 10px;
-    font-size: 160%;
+    
 }
 
 .input-slot {
@@ -398,6 +399,11 @@ label {
         float: left;
         padding: 0;
 
+    }
+
+    #contact-form {
+
+        width: 100%;
     }
 
 }
@@ -460,5 +466,13 @@ label {
         text-align: center;
         padding: 0 20px;
     }
+
+    #contact-form {
+
+        padding: 0 20px;
+        width: 90%;
+        margin: 0 auto;
+    }
+
 }
 
