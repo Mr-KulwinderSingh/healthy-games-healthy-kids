@@ -401,6 +401,7 @@ label {
     }
 
     .image-1, .image-2 {
+        height: 90%;
         width: 90%;
         margin: 0 auto;
     }
