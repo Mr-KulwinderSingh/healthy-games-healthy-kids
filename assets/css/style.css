@@ -281,11 +281,14 @@ footer {
 
 /* styles for contact us page */
 
-#contact-form-background {
+#contact-form-base {
 
     height: 100vh;
     clear: both;
-    background: rgb(0,0,0,0.7) url(../images/pexels-picjumbocom-225232.jpg);
+    background: rgba(0, 0, 0, 0.7) url(../images/pexels-picjumbocom-225232.jpg);
+    width: 98%;
+    margin: 0 auto;
+
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -299,8 +302,9 @@ footer {
     height: 550px;
     width: 40%;
     float:right;
+    
 
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color:  rgba(194, 239, 210, 0.6);
     border: 1px solid rgb(0, 115, 255);
 
     border-radius: 5px;
@@ -314,12 +318,24 @@ label {
     display: inline-block;
 }
 
+.button {
+    box-shadow: 1px 1px 1px;
+    border: 1px solid blue;
+    background-color: rgb(189, 245, 173);
+}
+.button1 {
+    box-shadow: 1px 1px 1px;
+    border: 1px solid blue;
+    background-color: rgb(189, 245, 173);
+}
+
+
 .form {
 
     margin-left: 20px;
     padding: 20px;
     padding-left: 30px;
-    color: rgb(246, 242, 242);
+    color: rgb(9, 9, 9);
 }
 
 
@@ -332,7 +348,6 @@ label {
 .input-slot {
 
     width: 70%;
-    color: rgb(16, 15, 15);
     margin: 10px 5px 10px 5px;
     height: 35px;
 }
@@ -340,7 +355,6 @@ label {
 .input-slot-1 {
 
     width: 30%;
-    color: rgb(16, 15, 15);
     margin: 15px 5px 15px 5px;
     height: 35px;
 
@@ -349,6 +363,7 @@ label {
     display: inline;
     text-align: left;
 }
+
 
 /* media queries */
 
