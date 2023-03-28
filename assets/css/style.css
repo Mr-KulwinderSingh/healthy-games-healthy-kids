@@ -86,16 +86,15 @@ h1, h2 {
     
 }
 
-.image-1 {
+.image-1, .image-2 {
     height: 500px;
     width: 50%;
-
-}
-.image-2 { 
-        height: 500px;
-        width: 50%;
 }
 
+.main-photo {
+    object-fit: cover;
+
+}
 .verses {
 
     height: 40px;
