@@ -1,10 +1,17 @@
-<h1 align="center">Code Institute Website</h1>
+# **Healthy Games ~ Healthy Kids**
 
-[View the live project here.](https://codeinstitute.net)
+# **Site Goal**
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+<br>
 
-<h2 align="center"><img src="https://github.com/Mr-KulwinderSingh/healthy-games-healthy-kids/blob/c76e079c2f2db23c013af86f8c7e86f6c2da3b5c/assets/child-613199_1280.jpg"></h2>
+[Healthy Games ~ Healthy Kids](https://github.com/Mr-KulwinderSingh/healthy-games-healthy-kids)
+
+This site has been created to motivate and encourage the younger kids to play sports and other social activities rather than just playing video games and online games. As our modern and busy world and so much influence of the mobile and internet technology most of the parents cannot give so much time to their children as they deserve. As a result kids are doing what they want, as parents we think they are just playing video games but technically there is so much happening in their young minds and playing for long time this kind of games daily. It could later make them emotionally attached to the digital world, they can be addicted in simple their phyical and mental well being can be effected seriously. As a parent we might not be able to handle a situation where their kids will go out of control especially their mind would be occupied by the imaginery world and real life, sports and other social values are not more important for them.
+ 
+
+        
+
+<h2 align="center"><"></h2>
 
 ## User Experience (UX)
 
