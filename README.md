@@ -94,7 +94,7 @@ The purpose of making this website is to help the local community and their chil
          
     -   #### Imagery
 
-![557DA2A7-57B9-4D43-9ABC-781EF7442990_1_201_a](https://user-images.githubusercontent.com/124357266/228910930-495e175e-dd28-42b9-b611-c3017b2ea742.jpeg)
+![557DA2A7-57B9-4D43-9ABC-781EF7442990_1_201_a](https://user-images.githubusercontent.com/124357266/228910930-495e175e-dd28-42b9-b611-c3017b2ea742.jpeg)<br>
 
         -   Imagery is important. The two main photos at the home page are the hero images designed to catch the user's attention. By looking at those pictures user can have a quick idea what this site is about. Talking by children's playing behaviour and relationship with the family/parents third main picture at the second half of the main page shows that we are working on something which is mainly related to the kids and the family relationship as well as the games and sports shown in the images. Those pictures show the modern lifestyle of the young children and what is happening in real life. In the background picture of services page shows a mom and child sitting togther and worried about something they might need help, and services written on the top relates the situation, where parents need help. 
 
@@ -150,6 +150,8 @@ The purpose of making this website is to help the local community and their chil
 ## Services
 
     In this page, it brings users to relate themselves where they need them and what kind of services are available.
+
+<br>
 <br>
 
 ## Contact Us
