@@ -98,7 +98,7 @@ The purpose of making this website is to help the local community and their chil
     ![E015AA5F-19EB-4692-812D-0AEB33C368DB_4_5005_c](https://user-images.githubusercontent.com/124357266/228908839-e4b4a57a-4979-4d91-94b9-09ba3e9429f1.jpeg)
 
     <br>
-    ## *Home*
+    ## **Home**
     Here it has the essential information for its users as to what the website does and how.
 
 
@@ -140,22 +140,17 @@ The purpose of making this website is to help the local community and their chil
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over it is also used to highlight the main text of the Our-Story and Why-do-we-exist text.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Nato serif Lao' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    - Font Awesome was used on all pages throughout the website to add icons to represent the social media links.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
+    
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -165,6 +160,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <img width="1680" alt="Screenshot 2023-03-30 at 19 06 24" src="https://user-images.githubusercontent.com/124357266/228953933-402f4211-762e-47f6-b64c-6d6f765b997c.png">
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+<img width="1680" alt="Screenshot 2023-03-30 at 19 35 07" src="https://user-images.githubusercontent.com/124357266/228954578-76d639e7-e83f-454b-a4d6-23147a56f25c.png">
 
 ### Testing User Stories from User Experience (UX) Section
 
