@@ -11,20 +11,20 @@ A website made to help parents of those kids who are either addicted to the digi
 
 <br>
 
-### Relationship and need of the website = Modern Kids and their lifestyle
+### Relationship and need of the website Modern Kids and their lifestyle
 
 Today's life of children is so different from the old times. For any child who is in the age range of 5 to 15, there is basically no life without mobile devices. These days our children's hobbies are so costly i.e expensive devices, latest model of mobile phones, Playstation, Xbox, Nintendo etc. No way to stop them because they are surrounded by these things. But we have a solution that is why is website is built for.
 
 <br>
 
-## *Site Goals*
+## **Site Goals**
 This site has been created to motivate and encourage the younger kids to play sports and other social activities rather than just playing video games and online games. As our modern and busy world and so much influence of the mobile and internet technology most of the parents cannot give so much time to their children as they deserve. As a result kids are doing what they want on the other side as parents we think they are just playing video games but technically there is so much happening in their young minds. It could later make them emotionally attached to the digital world and imaginery world, they can get addicted to these things, they can develop so much interest in it that their preferences could change. In simple their phyical and mental well being can be effected seriously. As a parent we might not be able to handle a situation where their kids will go out of control especially their mental wellbeing should not be on a risk.
 
 To balance all these things we have collaborated a team of professionals who are not only child friendly, they are influencers, sportsmen, social workers and can also be role models. As parents your job is just to give us a chance to help you and your children.
  
  <br>
 
- ## *Purpose*
+ ## **Purpose**
 
 The purpose of making this website is to help the local community and their children to grow healthy both physically and mentally. Our children are future of our country and we should not let them choose the wrong sources of entertainment and other activities.
 
