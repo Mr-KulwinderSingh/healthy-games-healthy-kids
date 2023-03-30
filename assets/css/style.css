@@ -129,14 +129,10 @@ h1, h2 {
     background-image: url(../images/dad\ &\ son\ playing.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: relative;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
     margin: 0 auto;
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
-    display: flex;
-    
-    
+    display: flex;  
 }
 
 .aim {
@@ -154,6 +150,8 @@ h1, h2 {
     border: 1px solid rgb(196, 246, 196);
     box-shadow: 2px 2px 15px rgb(95, 61, 244);
 }
+
+/* our-story and why-do-we-exist */
 
 #right-side-text:hover {
 
@@ -212,10 +210,11 @@ h1, h2 {
 }
 
 hr {
-    border-top: 1px soild #252525;
     width: 100%;
     margin: 5px 0;
 }
+
+/* footer and social networks and their icons */
 
 .social-networks {
 
@@ -225,11 +224,6 @@ hr {
 .social-networks li {
 
     display: inline;
-}
-
-span {
-
-    font-size: 120%;
 }
 
 footer {
