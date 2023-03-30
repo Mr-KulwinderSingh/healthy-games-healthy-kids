@@ -66,7 +66,7 @@ The purpose of making this website is to help the local community and their chil
             rgba(194, 239, 210, 0.5)(for Our-Aim),
             rgba(196 246 196)(border of Our-aim), 
             rgb(63, 75, 243)(for Our-Story and right-side-text)
-            rgba(92, 245, 240, 0.6, rgba(0, 0, 0, 0.7)(to darken the services image and contact us image background), 
+            rgba(92, 245, 240, 0.6), rgba(0, 0, 0, 0.7)(to darken the services image and contact us image background), 
             rgb(0, 115, 255) (blue border for contact us form) 
             rgba(194, 239, 210, 0.6)(contact-us form background), 
             rgb(0, 115, 255)(contact-us form border)
@@ -89,17 +89,21 @@ The purpose of making this website is to help the local community and their chil
 
 -   Responsive on all device sizes
 
-    This has been built by using the latest version of HTML and CSS and it is responsive on all sizes of devices from mobile phones to desktop and laptop.
+    This site has been built by using the latest version of HTML and CSS and it is responsive on all screen sizes of devices from mobile phones to desktops and laptop.
 
 -   This website is a single-page website which contains a Home page, Services and Contact us page. 
 
-    Easy navigation and links are there on all the pages. Hover effect on the Our-story and Why-do-we-exist, highlight the text for the user to be keep in the interest.
+    Easy navigation and links are there on all the pages. Hover effect on the Our-story and Why-do-we-exist, highlight the text for the user to be keep in interested and impressed with the background colour. It also provides more clarity and visibility.
 
     ![E015AA5F-19EB-4692-812D-0AEB33C368DB_4_5005_c](https://user-images.githubusercontent.com/124357266/228908839-e4b4a57a-4979-4d91-94b9-09ba3e9429f1.jpeg)
 
     <br>
     ## *Home*
     Here it has the essential information for its users as to what the website does and how.
+
+
+
+
     <br>
     The Contents of the main page are attractive and give a reason why a user should try their service.
 
@@ -157,6 +161,9 @@ The purpose of making this website is to help the local community and their chil
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+<img width="1680" alt="Screenshot 2023-03-30 at 19 06 24" src="https://user-images.githubusercontent.com/124357266/228953933-402f4211-762e-47f6-b64c-6d6f765b997c.png">
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
 ### Testing User Stories from User Experience (UX) Section
