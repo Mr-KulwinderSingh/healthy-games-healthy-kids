@@ -189,8 +189,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Lighthouse report
 
-The Lighthouse report was a successful tool to use and find out what minor errors were found. 
-The Images were found big in the lighthouse report and then corrected accordingly same for the header on the services page found small and suggested to turn to h2 was also corrected.
+The Lighthouse report was an effective tool to use and find out what minor errors were found. 
+The Images were found bigger in size in the lighthouse report and then corrected accordingly same was for the header on the services page found small and suggested to turn to h2 was also corrected. it was also showing semantic errors due to the sequential order of headers.
 
 ## Deployment
 
@@ -247,7 +247,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   Images were downloaded from [pixabay.com] (https://pixabay.com) and [pixels.com] (pixels.com) and then saved to the subfolders of the assets  folder. 
+-   Images were downloaded from [pixabay.com](https://pixabay.com) and [pixels.com](https://pixels.com) and then saved to the subfolders of the assets  folder. 
 
 ### Acknowledgements
 
@@ -255,4 +255,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   Tutor support at Code Institute for their support.
 
--   All online lessons provided by the [Code Institute] (https://codeintitute.net) were used to create the website.
+-   All online lessons provided by the [Code Institute](https://codeintitute.net) were used to create the website.
