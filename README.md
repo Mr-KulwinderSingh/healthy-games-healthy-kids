@@ -1,12 +1,11 @@
 # **Healthy Games ~ Healthy Kids**
 
-# **Site Goal**
-
-<br>
-
 [Healthy Games ~ Healthy Kids](https://github.com/Mr-KulwinderSingh/healthy-games-healthy-kids)
 
-This site has been created to motivate and encourage the younger kids to play sports and other social activities rather than just playing video games and online games. As our modern and busy world and so much influence of the mobile and internet technology most of the parents cannot give so much time to their children as they deserve. As a result kids are doing what they want, as parents we think they are just playing video games but technically there is so much happening in their young minds and playing for long time this kind of games daily. It could later make them emotionally attached to the digital world, they can be addicted in simple their phyical and mental well being can be effected seriously. As a parent we might not be able to handle a situation where their kids will go out of control especially their mind would be occupied by the imaginery world and real life, sports and other social values are not more important for them.
+## *Site Goals*
+This site has been created to motivate and encourage the younger kids to play sports and other social activities rather than just playing video games and online games. As our modern and busy world and so much influence of the mobile and internet technology most of the parents cannot give so much time to their children as they deserve. As a result kids are doing what they want on the other side as parents we think they are just playing video games but technically there is so much happening in their young minds. It could later make them emotionally attached to the digital world and imaginery world, they can get addicted to these things, they can develop so much interest in it that their preferences could change. In simple their phyical and mental well being can be effected seriously. As a parent we might not be able to handle a situation where their kids will go out of control especially their mental wellbeing should not be on a risk.
+
+To balance all these things we have collaborated a team of professionals who are not only child friendly, they are influencers, sportsmen, social workers and can also be role models. As parents your job is just to give us a chance to help you and your children.
  
 
         
@@ -19,26 +18,23 @@ This site has been created to motivate and encourage the younger kids to play sp
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        1. As a First Time Visitor, I want to understand that what this is for? What is the main purpose of starting this kind of organisation.
+        2. As a First Time Visitor, I want to find out what are other pages and services is being provided.
         3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I would like to see what are the new things are happening for example classes, mentors, new efforts, which can help other parents.
+        2. As a Returning Visitor, I would like to participate in their effort and be volunteer and help others in my free time and make their team strong.
+        3. As a Returning Visitor, I want to be their supporter and my testimony along with my child can encourage others.
 
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-
+   
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The two main colours used are .
+    -   #### Fonts
+        -   Nato serif Lao font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Nato serif Lao is a clean font used frequently in programming, so it is both attractive and appropriate.
+         
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
