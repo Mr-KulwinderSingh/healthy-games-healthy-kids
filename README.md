@@ -31,6 +31,7 @@ The purpose of making this website is to help the local community and their chil
 <br>
 
 ## Table of Contents
+
 <br>
 
  *[User Experience] (#User-Experience-(UX))
@@ -82,7 +83,23 @@ The purpose of making this website is to help the local community and their chil
 
     This has been built by using the latest version of HTML and CSS and it is responsive on all sizes of devices from mobile phones to desktop and laptop.
 
--   Interactive elements
+-   This website is a single-page website which contains a Home page, Services and Contact us page. 
+
+    Easy navigation and links are there on all the pages. Hover effect on the Our-story and Why-do-we-exist, highlight the text for the user to be keep in the interest.
+    <br>
+    ## *Home*
+    Here it has the essential information for its users as to what the website does and how.
+    <br>
+    The Contents of the main page are attractive and give a reason why a user should try their service.
+    (Our-Aim ) 
+    (our-Story)
+    (Why-do-we-exist)
+    <br>
+    ## *Services*
+    In this page, it brings users to relate themselves where they need them and what kind of services are available.
+    <br>
+    ## *Contact us*
+    This page is simply to attract their user to have a free trial consultation.
 
 ## Technologies Used
 
