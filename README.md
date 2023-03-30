@@ -2,17 +2,38 @@
 
 [Healthy Games ~ Healthy Kids](https://github.com/Mr-KulwinderSingh/healthy-games-healthy-kids)
 
+![3816C4FF-F4B5-44D0-AF78-88E60686D841_1_201_a](https://user-images.githubusercontent.com/124357266/228884685-82059c50-2334-4337-9094-7afb0ec171f7.jpeg)
+
+
+
+<br>
+A website made to help parents of those kids who are either addicted to the digital world or they don't have any interest in sports or other social activies.
+
+<br>
+
+### Relationship and need of the website = Modern Kids and their lifestyle
+
+Today's life of children is so different from the old times. For any child who is in the age range of 5 to 15, there is basically no life without mobile devices. These days our children's hobbies are so costly i.e expensive devices, latest model of mobile phones, Playstation, Xbox, Nintendo etc. No way to stop them because they are surrounded by these things. But we have a solution that is why is website is built for.
+
+<br>
+
 ## *Site Goals*
 This site has been created to motivate and encourage the younger kids to play sports and other social activities rather than just playing video games and online games. As our modern and busy world and so much influence of the mobile and internet technology most of the parents cannot give so much time to their children as they deserve. As a result kids are doing what they want on the other side as parents we think they are just playing video games but technically there is so much happening in their young minds. It could later make them emotionally attached to the digital world and imaginery world, they can get addicted to these things, they can develop so much interest in it that their preferences could change. In simple their phyical and mental well being can be effected seriously. As a parent we might not be able to handle a situation where their kids will go out of control especially their mental wellbeing should not be on a risk.
 
 To balance all these things we have collaborated a team of professionals who are not only child friendly, they are influencers, sportsmen, social workers and can also be role models. As parents your job is just to give us a chance to help you and your children.
  
+ <br>
 
-        
+ ## *Purpose*
 
-<h2 align="center"><"></h2>
+The purpose of making this website is to help the local community and their children to grow healthy both physically and mentally. Our children are future of our country and we should not let them choose the wrong sources of entertainment and other activities.
 
-## User Experience (UX)
+<br>
+
+## Table of Contents
+<br>
+
+ *[User Experience] (#User-Experience-(UX))
 
 -   ### User stories
 
@@ -53,17 +74,13 @@ To balance all these things we have collaborated a team of professionals who are
     -   #### Imagery
         -   Imagery is important. The two main photos at the home page are the hero images designed to catch the user's attention. By looking at those pictures user can have a quick idea what this site is about. Talking by children's playing behaviour and relationship with the family/parents third main picture at the second half of the main page shows that we are working on something which is mainly related to the kids and the family relationship as well as the games and sports shown in the images. Those pictures show the modern lifestyle of the young children and what is happening in real life. In the background picture of services page shows a mom and child sitting togther and worried about something they might need help, and services written on the top relates the situation, where parents need help. 
 
-*   ### Wireframes
-
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+        <br>
 
 ## Features
 
 -   Responsive on all device sizes
+
+    This has been built by using the latest version of HTML and CSS and it is responsive on all sizes of devices from mobile phones to desktop and laptop.
 
 -   Interactive elements
 
