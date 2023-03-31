@@ -125,17 +125,17 @@ The purpose of making this website is to help the local community and their chil
 
 <br>
 
-    Here it has the essential information for its users as to what the website does and how.
+-  Here it has the essential information for its users as to what the website does and how.
 
 
 
 
 <br>
 
-    The Contents of the main page are attractive and give a reason why a user should try their service.
+-  The Contents of the main page are attractive and give a reason why a user should try their service.
 
 
-    (Our-Aim ) 
+-   (Our-Aim ) 
 
 <br>
     
@@ -143,7 +143,7 @@ The purpose of making this website is to help the local community and their chil
 
 <b>
     
-    (our-Story)
+-   (our-Story)
 
 <br>
 
@@ -151,7 +151,7 @@ The purpose of making this website is to help the local community and their chil
 
 <br>
 
-    (Why-do-we-exist)
+-   (Why-do-we-exist)
 
 <b>
 
@@ -164,7 +164,8 @@ The purpose of making this website is to help the local community and their chil
 
  <br>
  
- In this page, it brings users to relate themselves where they need them and what kind of services are available.
+ 
+ - In this page, it brings users to relate themselves where they need them and what kind of services are available.
 
 <br>
 <br>
@@ -172,7 +173,8 @@ The purpose of making this website is to help the local community and their chil
 ## Contact Us
 
 <br>
-    This page is simply to attract their user to have a free trial consultation and introduction.
+   
+ -  This page is simply to attract their user to have a free trial consultation and introduction.
     
 <br>
 
