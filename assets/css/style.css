@@ -335,7 +335,7 @@ label {
 .form {
 
     margin-left: 20px;
-    padding: 20px;
+    padding: 15px;
     padding-left: 30px;
     color: rgb(9, 9, 9);
 }
@@ -450,6 +450,7 @@ label {
         padding-top: 0 5px;
         margin-top: 210px;
         text-align: center;
+        justify-content: center;
         overflow: hidden;
         font-size: 70%;
         
