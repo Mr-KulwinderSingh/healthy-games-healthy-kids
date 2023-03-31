@@ -447,7 +447,7 @@ label {
     
     .aim {
         height: 35%;
-        padding-top: 0 5px;
+        padding: 5px;
         margin-top: 210px;
         text-align: center;
         justify-content: center;
