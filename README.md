@@ -94,9 +94,12 @@ The purpose of making this website is to help the local community and their chil
          
     -   #### Imagery
 
-![557DA2A7-57B9-4D43-9ABC-781EF7442990_1_201_a](https://user-images.githubusercontent.com/124357266/228910930-495e175e-dd28-42b9-b611-c3017b2ea742.jpeg)<br>
+![557DA2A7-57B9-4D43-9ABC-781EF7442990_1_201_a](https://user-images.githubusercontent.com/124357266/228910930-495e175e-dd28-42b9-b611-c3017b2ea742.jpeg)
 
-        -   Imagery is important. The two main photos at the home page are the hero images designed to catch the user's attention. By looking at those pictures user can have a quick idea what this site is about. Talking by children's playing behaviour and relationship with the family/parents third main picture at the second half of the main page shows that we are working on something which is mainly related to the kids and the family relationship as well as the games and sports shown in the images. Those pictures show the modern lifestyle of the young children and what is happening in real life. In the background picture of services page shows a mom and child sitting togther and worried about something they might need help, and services written on the top relates the situation, where parents need help. 
+<br>
+
+
+ -   Imagery is important. The two main photos at the home page are the hero images designed to catch the user's attention. By looking at those pictures user can have a quick idea what this site is about. Talking by children's playing behaviour and relationship with the family/parents third main picture at the second half of the main page shows that we are working on something which is mainly related to the kids and the family relationship as well as the games and sports shown in the images. Those pictures show the modern lifestyle of the young children and what is happening in real life. In the background picture of services page shows a mom and child sitting togther and worried about something they might need help, and services written on the top relates the situation, where parents need help. 
 
 <br>
 
@@ -119,27 +122,37 @@ The purpose of making this website is to help the local community and their chil
 
     <br>
 ## **Home**
+
+<br>
+
     Here it has the essential information for its users as to what the website does and how.
 
 
 
 
 <br>
+
     The Contents of the main page are attractive and give a reason why a user should try their service.
 
 
     (Our-Aim ) 
+
 <br>
     
-![F630AE74-41BA-4BA5-826D-D844316ED360_1_201_a](https://user-images.githubusercontent.com/124357266/228909110-dedc3e22-2921-4a04-a83f-7c06267b2c41.jpeg)<b>
+![F630AE74-41BA-4BA5-826D-D844316ED360_1_201_a](https://user-images.githubusercontent.com/124357266/228909110-dedc3e22-2921-4a04-a83f-7c06267b2c41.jpeg)
+
+<b>
     
     (our-Story)
+
 <br>
 
 ![B3D6AD49-B387-456B-82D6-33777D70315D_1_201_a](https://user-images.githubusercontent.com/124357266/228911272-a8939f74-a131-4de7-a897-e2487069a171.jpeg)
+
 <br>
 
     (Why-do-we-exist)
+
 <b>
 
 ![C0FD1463-BEFE-4294-8B0C-D31418344160_1_201_a](https://user-images.githubusercontent.com/124357266/228911361-090a3bd6-b426-49a5-98c3-96efe66e3e17.jpeg)
@@ -149,12 +162,16 @@ The purpose of making this website is to help the local community and their chil
  
 ## Services
 
-    In this page, it brings users to relate themselves where they need them and what kind of services are available.
+ <br>
+ 
+ In this page, it brings users to relate themselves where they need them and what kind of services are available.
 
 <br>
 <br>
 
 ## Contact Us
+
+<br>
     This page is simply to attract their user to have a free trial consultation and introduction.
     
 <br>
