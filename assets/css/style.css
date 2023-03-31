@@ -444,13 +444,10 @@ label {
     margin-bottom: 20px;
     line-height: 25px;
     }
-    #body-image {
-
-
-    }
+    
     .aim {
         height: 35%;
-        padding-top: 0 10px;
+        padding-top: 0 5px;
         margin-top: 210px;
         text-align: center;
         overflow: hidden;
