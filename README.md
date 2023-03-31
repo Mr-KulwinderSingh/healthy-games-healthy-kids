@@ -35,7 +35,7 @@ The purpose of making this website is to help the local community and their chil
 
 <br>
 
- ## [User Experience](User-Experience-(UX))
+ ## User Experience
 
 -   ### User stories
 
@@ -252,13 +252,17 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Requirement
 
+
 -   This website is my first project which was required by [Code Institute](https://codeinstitute.net) after completion of two modules (HTML5 and CSS3)of the full stack course
 
+
 ### Media
+
 
 -   Images were downloaded from [pixabay.com](https://pixabay.com) and [pixels.com](https://pixels.com) and then saved to the subfolders of the assets  folder. 
 
 ### Acknowledgements
+
 
 -   My Mentor for continuous helpful feedback.
 
